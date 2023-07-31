@@ -11,7 +11,7 @@ const FlappyBird = {
         gravidade: 0.25
 }
 
-chao = {
+const chao = {
     spriteX: 0,
     spriteY: 610,
     largura: 224,
